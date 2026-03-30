@@ -106,13 +106,12 @@ This content is strictly for **educational purposes only**.
 ## 👨‍💻 Author
 
 **Sylvester Dsouza**
-Aspiring Cybersecurity Professional
-Focused on Offensive Security & Network Security
+
 
 ---
 
 ## 🔗 Connect With Me
 
-* LinkedIn: (Add your profile link here)
+* LinkedIn: (www.linkedin.com/in/sylvesterdsouza/)
 
 ---
